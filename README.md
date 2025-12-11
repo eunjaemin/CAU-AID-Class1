@@ -58,3 +58,12 @@ Predicted Label: Virginica
 This project is licensed under the [MIT License](LICENSE).
 
 ---
+
+## Notes
+Ensure that the input for prediction is numeric and follows the correct format (value1,value2).
+Modify the dataset loading path in the script if necessary.
+
+---
+
+## Author
+Developed by [은재민 20252660](LICENSE).
